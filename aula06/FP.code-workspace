@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../ITW"
+		},
+		{
+			"path": "../../MASPROG"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ITW"
+	}
+}
